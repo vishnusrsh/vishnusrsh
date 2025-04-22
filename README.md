@@ -1,28 +1,28 @@
 <h1 align="center">👋 Hello, I'm Vishnu Suresh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=AI+%2F+ML+Engineer;Deep+Learning+%7C+AutoML+%7C+Real-Time+Apps;Transforming+Ideas+Into+AI+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=AI+%2F+ML+Engineer+In+Making;Deep+Learning+%7C+AutoML+%7C+Flask+Apps;Transforming+Ideas+Into+AI+Reality" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 AI/ML Diploma | 📜 Certified in Python for Data Science  
+🎓 AI/ML Diploma | 📜 Python for Data Science Certified  
 📍 Based in **Tirur, Kerala**  
-🧠 Passionate about **Deep Learning**, **AutoML**, and **Model Deployment**  
-💡 Building smart, real-time apps using Python, Flask & DL  
-📊 PGDIFA background with analytical & data-savvy mindset  
+🧠 Deep Learning • NLP • AutoML  
+🛠️ Flask App Developer + Data Crafter  
+🎯 Passionate about transforming ideas into deployable AI apps
 
 ---
 
-## 🚀 What I Do
+## 🌟 What I Do
 
-- 🔍 Build & Deploy ML models for real-world use cases  
-- 🤖 Create Deep Learning models (Audio, Text, Image)  
-- 🛠️ Develop AI-powered web apps using Flask & FastAPI  
-- 📦 Automate workflows with Python + Git + VS Code  
-- 📡 Explore Edge AI, LLMs, AutoML & Fraud Detection  
+- 🤖 Train AI/ML models from scratch  
+- 📦 Build & deploy smart apps using Flask & FastAPI  
+- 🔬 Work on real-time DL projects (Audio, Text, Image)  
+- 🚀 Experimenting with AutoML platforms & LLMs  
+- 💬 Exploring fraud detection & recommender systems
 
 ---
 
@@ -43,35 +43,25 @@
 
 ---
 
-## 🏆 Achievements & Projects
+## 🚀 Projects & Highlights
 
-- ✅ Python for Data Science – IBM Cognitive Classes  
-- 🔐 Real-Time Spam Call Detection using Audio Deep Learning  
-- ⚙️ AI AutoML Model Builder (No-Code ML)  
-- 🎵 Spotify Song Recommendation System  
-- 🧪 NLP Text Classification + Flask Deployment  
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishnusuresh&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnusuresh&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+- 🎧 Real-time Spam Call Detection using Deep Learning Audio Models  
+- 🤖 AutoML-Based Model Builder (No-Code ML)  
+- 🎵 Spotify Song Recommendation System (ML-Based)  
+- 💬 NLP Text Classification & Deployment with Flask  
 
 ---
 
-## 🧩 Currently Exploring
+## 📚 Learning Goals
 
-- 🔮 Generative AI (GANs & Transformers)  
+- 🔮 Generative AI (GANs, Diffusion, Transformers)  
 - 🧠 Explainable AI & Model Interpretability  
-- 📦 MLOps & Deployment Pipelines  
-- 🌐 AI-Powered APIs using FastAPI  
+- 📦 End-to-End ML Pipelines + MLOps  
+- ⚡ AI APIs with FastAPI, Streamlit, Gradio  
 
 ---
 
-## 📫 Let's Connect
+## 🔗 Let’s Connect
 
 <p align="center">
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -80,11 +70,15 @@
 
 ---
 
-## 💬 Dev Quote
+## ✨ Dev Quote
 
 > “The best way to predict the future is to invent it.” – Alan Kay
 
 ---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vishnusuresh&label=Profile+Views&color=0e75b6&style=flat" alt="vishnusuresh" />
