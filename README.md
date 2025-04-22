@@ -1,4 +1,4 @@
-🎓 AI/ML Diploma | 📜 Python for Data Science Certified **
+* 🎓 AI/ML Diploma | 📜 Python for Data Science Certified 
 🧠 Machine Learning
 🛠️ Flask App Developer
 🎯 Passionate about transforming ideas into deployable AI apps
