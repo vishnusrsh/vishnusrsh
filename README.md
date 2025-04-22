@@ -1,47 +1,59 @@
-<h1 align="center">👋 Hello World, I'm <span style="color:#00bfff;">Vishnu Suresh</span></h1>
+<h1 align="center">👋 Hello, I'm Vishnu Suresh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=AI+%2F+ML+Engineer+In+Making;Deep+Learning+%7C+AutoML+%7C+Flask+Apps;Transforming+Ideas+Into+AI+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=AI+%2F+ML+Engineer;Deep+Learning+%7C+AutoML+%7C+Real-Time+Apps;Transforming+Ideas+Into+AI+Reality" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-- 🎓 AI/ML Diploma Student @ Learn Logic   
-- 💡 Passionate about innovation in AI  
-- 🧠 Strong background in Machine Learning
-- 🔧 Developer of real-time AI systems using Python & Flask  
-- 🎯 Mission 2025: Build tools that make AI accessible and useful in daily life
----
 
-## 🚀 Achievements
-
-  
-- 💻 Built real-time **Spam Call Detection** using Deep Learning  
-- 🛠️ Deploying ML models using **Flask + HTML/CSS**
+🎓 AI/ML Diploma | 📜 Certified in Python for Data Science  
+📍 Based in **Tirur, Kerala**  
+🧠 Passionate about **Deep Learning**, **AutoML**, and **Model Deployment**  
+💡 Building smart, real-time apps using Python, Flask & DL  
+📊 PGDIFA background with analytical & data-savvy mindset  
 
 ---
 
+## 🚀 What I Do
 
+- 🔍 Build & Deploy ML models for real-world use cases  
+- 🤖 Create Deep Learning models (Audio, Text, Image)  
+- 🛠️ Develop AI-powered web apps using Flask & FastAPI  
+- 📦 Automate workflows with Python + Git + VS Code  
+- 📡 Explore Edge AI, LLMs, AutoML & Fraud Detection  
 
 ---
 
 ## 🧠 My AI/ML Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikit-learn,numpy,pandas,jupyter,matplotlib,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikit-learn,numpy,pandas,jupyter,matplotlib,seaborn,html,css,flask,fastapi,git,github,vscode,linux" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-27338e.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Achievements & Projects
+
+- ✅ Python for Data Science – IBM Cognitive Classes  
+- 🔐 Real-Time Spam Call Detection using Audio Deep Learning  
+- ⚙️ AI AutoML Model Builder (No-Code ML)  
+- 🎵 Spotify Song Recommendation System  
+- 🧪 NLP Text Classification + Flask Deployment  
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vishnusuresh&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -50,15 +62,16 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🧩 Currently Exploring
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vishnusuresh&theme=gruvbox&no-frame=true&margin-w=15&row=1" />
-</p>
+- 🔮 Generative AI (GANs & Transformers)  
+- 🧠 Explainable AI & Model Interpretability  
+- 📦 MLOps & Deployment Pipelines  
+- 🌐 AI-Powered APIs using FastAPI  
 
 ---
 
-## 🔗 Connect With Me
+## 📫 Let's Connect
 
 <p align="center">
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -67,9 +80,9 @@
 
 ---
 
-## ✨ Dev Quote
+## 💬 Dev Quote
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> “The best way to predict the future is to invent it.” – Alan Kay
 
 ---
 
