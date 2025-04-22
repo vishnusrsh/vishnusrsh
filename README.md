@@ -8,6 +8,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=AI+%2F+ML+Engineer+In+Making;Deep+Learning+%7C+AutoML+%7C+Flask+Apps;Transforming+Ideas+Into+AI+Reality" alt="Typing SVG" />
 </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+
+
+
+
+
+
+
 ---
 
 
