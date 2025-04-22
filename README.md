@@ -25,5 +25,3 @@
 </picture>
 
 
-![Child Playing on Computer with Code Running](https://media.giphy.com/media/3o6Zt5p3y7g4X1pX7O/giphy.gif)
-
