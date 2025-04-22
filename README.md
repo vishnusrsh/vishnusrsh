@@ -6,18 +6,27 @@
 
 ---
 
-## 🌟 About Me
-
-- 🎓 AI/ML Diploma Student @ Learn Logic  
-- ✅ Certified in Python for Data Science by Cognitive Classes  
-- 🌍 From Tirur, Kerala | 💡 Passionate about innovation in AI  
-- 🧠 Strong background in Deep Learning, NLP, AutoML  
+## 👨‍💻 About Me
+- 🎓 AI/ML Diploma Student @ Learn Logic   
+- 💡 Passionate about innovation in AI  
+- 🧠 Strong background in Machine Learning
 - 🔧 Developer of real-time AI systems using Python & Flask  
 - 🎯 Mission 2025: Build tools that make AI accessible and useful in daily life
+---
+
+## 🚀 Achievements
+
+  
+- 💻 Built real-time **Spam Call Detection** using Deep Learning  
+- 🛠️ Deploying ML models using **Flask + HTML/CSS**
 
 ---
 
-## 🧠 AI/ML Tech Stack
+
+
+---
+
+## 🧠 My AI/ML Toolbox
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikit-learn,numpy,pandas,jupyter,matplotlib,linux,vscode" />
@@ -27,16 +36,12 @@
   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-27338e.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vishnusuresh&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vishnusuresh&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -48,12 +53,12 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vishnusuresh&theme=onedark&row=1&column=7&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vishnusuresh&theme=gruvbox&no-frame=true&margin-w=15&row=1" />
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 🔗 Connect With Me
 
 <p align="center">
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -62,9 +67,9 @@
 
 ---
 
-## ✍️ Fun Fact
+## ✨ Dev Quote
 
-> “Artificial Intelligence is not just a field. It’s the future we’re building with code.”
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 ---
 
